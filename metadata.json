@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clinic Billing",
+  "description": "An application for dental clinics to create, manage, and download professional invoices. Features include editable clinic details, logo uploads, and storage for previous invoices.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
