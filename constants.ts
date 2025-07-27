@@ -3,8 +3,8 @@ import { Invoice } from './types';
 export const INITIAL_INVOICE: Invoice = {
   invoiceNumber: `INV-${String(Date.now()).slice(-6)}`,
   date: new Date().toISOString().split('T')[0],
-  clinicName: 'SmileBright Dental Clinic',
-  clinicAddress: '123 Dental Way, Toothville, ST 12345',
+  clinicName: 'Shade Dental Clinic',
+  clinicAddress: '501 Sathyamoorthy Street, Nazarethpet, Chennai 600123',
   patientName: '',
   patientAddress: '',
   patientContact: '',
